@@ -1,0 +1,8 @@
+*Spotify sitesine giriş yapılır
+*New scenario playliste girilir
+*1.şarkı çalınır
+*İki tane şarkı eklenir
+*yeni şarkı aratılır 
+*favorilere eklenir
+*Oturumdan çıkışı yapılır
+

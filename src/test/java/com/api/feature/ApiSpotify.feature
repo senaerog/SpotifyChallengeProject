@@ -53,3 +53,6 @@ Feature: API test on Spotify
           And header Content-Type = 'application/json'
           And request {"uris": [#(songUri)]}
           And method post
+
+
+
